@@ -46,6 +46,7 @@ agentic-rag-chatbot/
 │   ├── homepage.png
 │   ├── upload_docs.png
 │   └── chat_response.png
+├── Architecture presentation.pptx  # System architecture presentation
 ├── main.py                     # Main coordinator and entry point
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
@@ -198,6 +199,10 @@ from agents.ingestion_agent import IngestionAgent
 agent = IngestionAgent()
 # Test document processing
 ```
+
+## 📊 Architecture Presentation
+You can view the detailed architecture and agent workflow here:
+👉 [Download Architecture presentation (PPTX)](./Architecture%20presentation.pptx)
 
 ## 🚧 Challenges Faced
 
