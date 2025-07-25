@@ -2,6 +2,13 @@
 
 An intelligent chatbot system built with an agentic architecture that can process multiple document formats and answer questions using Retrieval-Augmented Generation (RAG) with Model Context Protocol (MCP) for inter-agent communication.
 
+## 🎥 Project Demo Video
+
+Watch the complete 5-minute walkthrough covering application demo, system architecture, and code explanation:  
+🔗 **[Loom Demo Video - Agentic RAG Chatbot Presentation](https://www.loom.com/share/fccc451d29e9405fbeef15301027418f)**
+
+*Video breakdown: 1 min app demo • 2 min architecture & flow • 2 min code walkthrough*
+
 ## 🏗️ Architecture Overview
 
 This system implements a multi-agent architecture with three specialized agents:
@@ -242,4 +249,6 @@ For questions or issues, please:
 
 ---
 
-Developed using Agentic Architecture and Model Context Protocol.
+**Developed by Chakrika Guttameedi using Agentic Architecture and Model Context Protocol.**
+
+*For a complete walkthrough of the system, watch the [demo video](https://www.loom.com/share/fccc451d29e9405fbeef15301027418f) above! 🎬*
