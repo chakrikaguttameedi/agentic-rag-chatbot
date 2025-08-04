@@ -53,7 +53,6 @@ agentic-rag-chatbot/
 │   ├── homepage.png
 │   ├── upload_docs.png
 │   └── chat_response.png
-├── Architecture presentation.pptx  # System architecture presentation
 ├── main.py                     # Main coordinator and entry point
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
@@ -207,10 +206,6 @@ agent = IngestionAgent()
 # Test document processing
 ```
 
-## 📊 Architecture Presentation
-You can view the detailed architecture and agent workflow here:
-👉 [Download Architecture presentation (PPTX)](./Architecture%20presentation.pptx)
-
 ## 🚧 Challenges Faced
 
 1. **Multi-format Parsing**: Handling different document formats with consistent chunking
@@ -252,3 +247,4 @@ For questions or issues, please:
 **Developed by Chakrika Guttameedi using Agentic Architecture and Model Context Protocol.**
 
 *For a complete walkthrough of the system, watch the [demo video](https://www.loom.com/share/fccc451d29e9405fbeef15301027418f) above! 🎬*
+
